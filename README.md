@@ -12,6 +12,8 @@ The server allows us to integrate primarily tools, context & resources to the LL
 # Architecture
 
 The following will be our high-level architecture
+![5f5f3ff57c7734905a2843c22a9f4f2583a06fa1](https://github.com/user-attachments/assets/92dc8e3e-281f-4162-b39e-08951abb2e11)
+
 
 ![image](https://github.com/user-attachments/assets/10dab874-ce7d-40d4-9a11-634a98661374)
 
